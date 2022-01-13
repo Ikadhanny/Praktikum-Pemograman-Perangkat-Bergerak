@@ -1,0 +1,2 @@
+id/ikadhanny_19104082/helloittelkompurwokerto/BuildConfig.java
+ id.ikadhanny_19104082.helloittelkompurwokerto.BuildConfig

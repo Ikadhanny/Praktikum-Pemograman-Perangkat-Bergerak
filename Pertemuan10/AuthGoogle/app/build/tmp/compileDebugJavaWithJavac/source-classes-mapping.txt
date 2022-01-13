@@ -1,0 +1,8 @@
+id/ikadhanny_19104082/authgoogle/databinding/ActivityLoginBinding.java
+ id.ikadhanny_19104082.authgoogle.databinding.ActivityLoginBinding
+id/ikadhanny_19104082/authgoogle/BuildConfig.java
+ id.ikadhanny_19104082.authgoogle.BuildConfig
+id/ikadhanny_19104082/authgoogle/databinding/ActivityMainBinding.java
+ id.ikadhanny_19104082.authgoogle.databinding.ActivityMainBinding
+id/ikadhanny_19104082/authgoogle/databinding/ActivitySignUpBinding.java
+ id.ikadhanny_19104082.authgoogle.databinding.ActivitySignUpBinding
