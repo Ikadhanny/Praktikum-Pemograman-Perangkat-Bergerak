@@ -1,0 +1,2 @@
+id/ikadhanny_19104082/myfirstapp/BuildConfig.java
+ id.ikadhanny_19104082.myfirstapp.BuildConfig
