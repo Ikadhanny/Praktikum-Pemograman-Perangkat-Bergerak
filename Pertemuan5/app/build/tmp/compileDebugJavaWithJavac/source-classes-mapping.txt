@@ -1,0 +1,12 @@
+id/ikadhanny_19104082/intentexim/databinding/ActivityPractice5ReadDataBinding.java
+ id.ikadhanny_19104082.intentexim.databinding.ActivityPractice5ReadDataBinding
+id/ikadhanny_19104082/intentexim/BuildConfig.java
+ id.ikadhanny_19104082.intentexim.BuildConfig
+id/ikadhanny_19104082/intentexim/databinding/ActivityMainBinding.java
+ id.ikadhanny_19104082.intentexim.databinding.ActivityMainBinding
+id/ikadhanny_19104082/intentexim/databinding/FragmentPractice5FirstBinding.java
+ id.ikadhanny_19104082.intentexim.databinding.FragmentPractice5FirstBinding
+id/ikadhanny_19104082/intentexim/databinding/ActivityPractice5ForFragmentBinding.java
+ id.ikadhanny_19104082.intentexim.databinding.ActivityPractice5ForFragmentBinding
+id/ikadhanny_19104082/intentexim/databinding/FragmentPractice5ReadDataBinding.java
+ id.ikadhanny_19104082.intentexim.databinding.FragmentPractice5ReadDataBinding
